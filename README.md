@@ -1,10 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mateusz Nizwantowski
-============================================================================================================================================
-
-
-WUT 3rd year student
---------------------
-
 I'm a 3rd-year data science student fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Kubernetes, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
 
 ### My toolbox
