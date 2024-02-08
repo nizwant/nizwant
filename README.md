@@ -6,12 +6,14 @@ WUT 3rd year student
 
 I'm a 3rd-year data science student fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Kubernetes, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
 
-My toolbox: 
+### My toolbox: 
 - Python (my trusty companion for data wrangling and analysis) ️
 - Familiarity with various relational databases
 - A love for math and the logic behind it
 - A knack for solving puzzles, both physical and computational
 
+
+### About me 
 *   🌍  I'm based in Warsaw
 *   ✉️  You can contact me at [mateusznizwantowski@gmail.com](mailto:mateusznizwantowski@gmail.com)
 *   🚀  I'm currently working on [my bachelor thesis](http://github.com/nizwant/bachelor_thesis)
