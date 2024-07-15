@@ -1,4 +1,4 @@
-Hi There, Welcome to my Github profile!
+Hi There, Welcome to my GitHub profile!
 ============================================================================================================================================
 
 I'm a 3rd-year data science student fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Kubernetes, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
@@ -13,8 +13,8 @@ I'm a 3rd-year data science student fueled by a passion for turning complex data
 ### About me 
 *   🌍  I'm based in Warsaw
 *   ✉️  You can contact me at [mateusznizwantowski@gmail.com](mailto:mateusznizwantowski@gmail.com)
-*   🚀  I'm currently working on [my bachelor thesis](http://github.com/nizwant/bachelor_thesis)
-*   🧠  I'm learning kubernetes, machine learnign and GCP
+*   🚀  I'm currently working on my bachelor's thesis
+*   🧠  Actively learning Kubernetes, machine learning, and GCP
 *   💡  Jigsaw puzzles enjoyer
 
 ### Skills 
