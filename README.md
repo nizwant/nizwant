@@ -13,9 +13,10 @@ I'm a 3rd-year data science student fueled by a passion for turning complex data
 ### About me 
 *   🌍  I'm based in Warsaw
 *   ✉️  You can contact me at [mateusznizwantowski@gmail.com](mailto:mateusznizwantowski@gmail.com)
-*   🚀  I'm currently working on my bachelor's thesis
-*   🧠  Actively learning Kubernetes, machine learning, and GCP
+*   🚀  I'm currently working on my bachelor's thesis (check out [PvStatem](https://github.com/mini-pw/PvSTATEM))
+*   🧠  Actively learning Kubernetes, big data, and GCP
 *   💡  Jigsaw puzzles enjoyer
+*   🪴  Trying not to kill my plants
 
 ### Skills 
 <p align="left">
