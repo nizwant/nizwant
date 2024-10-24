@@ -16,7 +16,7 @@ I'm a 4th-year data science student fueled by a passion for turning complex data
 *   🚀  I'm currently working on my bachelor's thesis (check out [PvSTATEM](https://github.com/mini-pw/PvSTATEM))
 *   🧠  Actively learning Kubernetes, big data, and GCP
 *   💡  Jigsaw puzzles enjoyer
-*   🪴  Trying not to kill my plants
+*   🪴  Trying not to kill my plants (34 and growing)
 
 ### Skills 
 <p align="left">
