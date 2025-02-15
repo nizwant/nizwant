@@ -19,6 +19,6 @@ I'm a 4th-year data science student fueled by a passion for turning complex data
 *   🪴  Trying not to kill my plants (37 and growing)
 
 ### My Skills 
-[![My Skills](https://skillicons.dev/icons?i=git,python,r,java,css,html,mysql,postgres,flask,django,docker,linux,photoshop,gcp,obsidian,ubuntu,sklearn,sqlite,regex,raspberrypi,elixir,obsidian,nginx,md,latex,kafka,github,bash,apple&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,elixir,java,bash,git,github,githubactions,docker,nginx,redis,kafka,mysql,postgres,sqlite,sklearn,flask,django,css,html,linux,apple,raspberrypi,ubuntu,photoshop,obsidian,md,latex,gcp,regex&perline=10)](https://skillicons.dev)
                     
 <img src='https://github.com/nizwant/nizwant/blob/main/capybara.png'>
