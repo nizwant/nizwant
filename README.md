@@ -24,8 +24,6 @@ I'm a 4th-year data science student fueled by a passion for turning complex data
 </p>
 
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=git,python,R,java,css,html,mysql,postgres,flask,django,docker,linux,photoshop,gcp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,r,java,css,html,mysql,postgres,flask,django,docker,linux,photoshop,gcp,obsidian,ubuntu,sklearn,sqlite,regex,raspberrypi,elixir,obsidian,nginx,md,latex,kafka,github,bash,apple&perline=10)](https://skillicons.dev)
                     
 <img src='https://github.com/nizwant/nizwant/blob/main/capybara.png'>
