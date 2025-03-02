@@ -1,7 +1,7 @@
 Hi There, Welcome to my GitHub profile!
 ============================================================================================================================================
 
-I'm a 4th-year data science student fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Kubernetes, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
+I'm a 1st year Data Science student fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Kubernetes, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
 
 ### My toolbox
 - Python (my trusty companion for data wrangling and analysis) ️
