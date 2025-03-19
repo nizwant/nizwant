@@ -1,7 +1,7 @@
 Hi There, Welcome to my GitHub profile!
 ============================================================================================================================================
 
-I'm a **1st-year Master's student in Data Science** fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Kubernetes, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
+I'm a **1st-year Master's student in Data Science** fueled by a passion for turning complex data into meaningful insights. I'm currently diving deep into the world of Deep Learning, Google Cloud, and Machine Learning, always eager to expand my knowledge and tackle new challenges. 
 
 ### My toolbox
 - Python (my trusty companion for data wrangling and analysis) ️
@@ -14,7 +14,7 @@ I'm a **1st-year Master's student in Data Science** fueled by a passion for turn
 *   🌍  I'm based in Warsaw
 *   ✉️  You can contact me at [mateusznizwantowski@gmail.com](mailto:mateusznizwantowski@gmail.com)
 *   🚀  I'm currently working on my bachelor's thesis (check out [SerolyzeR](https://github.com/mini-pw/SerolyzeR))
-*   🧠  Actively learning Kubernetes, big data, and GCP
+*   🧠  Actively learning Deep Learning, Big Data, and GCP
 *   💡  Jigsaw puzzles enjoyer
 *   🪴  Trying not to kill my plants (37 and growing)
 
