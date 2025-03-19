@@ -13,7 +13,7 @@ I'm a **1st-year Master's student in Data Science** fueled by a passion for turn
 ### About me 
 *   🌍  I'm based in Warsaw
 *   ✉️  You can contact me at [mateusznizwantowski@gmail.com](mailto:mateusznizwantowski@gmail.com)
-*   🚀  I'm currently working on my bachelor's thesis (check out [PvSTATEM](https://github.com/mini-pw/PvSTATEM))
+*   🚀  I'm currently working on my bachelor's thesis (check out [SerolyzeR](https://github.com/mini-pw/SerolyzeR))
 *   🧠  Actively learning Kubernetes, big data, and GCP
 *   💡  Jigsaw puzzles enjoyer
 *   🪴  Trying not to kill my plants (37 and growing)
